@@ -1,0 +1,2 @@
+How is attribution used for payments on Kite? | It links usage to contributors for compensation
+What is a benefit of using DID-based identity in Kite? | Interoperability across platforms
