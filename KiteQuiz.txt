@@ -1,2 +1,4 @@
 How is attribution used for payments on Kite? | It links usage to contributors for compensation
 What is a benefit of using DID-based identity in Kite? | Interoperability across platforms
+What does DID stand for in Kite's identity system? | Decentralized Identifier
+Why would a developer choose Kite over a general-purpose blockchain? | It is optimized for secure, verifiable AI agent transactions and interoperability
